@@ -6,6 +6,8 @@ function App() {
     return (
         <div>
             <h1>Xin chào anh em F8!</h1>
+            <h2>xin chào tất cả mọi người </h2>
+            <h3>Hí anh em </h3>
         </div>
     )
 }
